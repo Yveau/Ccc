@@ -1,0 +1,1 @@
+﻿create procedure Ccc.Versie as begin select 'Versie 0.0' end
